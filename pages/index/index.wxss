@@ -1,0 +1,22 @@
+/**index.wxss**/
+.lunchinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lunchinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.lunchinfo-nickname {
+  color: #aaa;
+}
+
+.lunchmotto {
+  margin-top: 150px;
+  margin-bottom: 50px;
+}

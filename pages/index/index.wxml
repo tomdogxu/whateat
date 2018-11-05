@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="lunchmotto">
+    <text class="lunch-motto">今天中午吃{{lunch}}?</text>
+  </view>
+  <view class="lunchinfo">
+    <button bindtap="getLunch"> {{lable}} </button>
+  </view>
+</view>
